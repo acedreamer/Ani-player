@@ -17,7 +17,7 @@ A modern, Material 3-inspired GUI application for streaming anime using `ani-cli
 
 ## Screenshots
 
-*Coming soon!*
+
 
 ## Requirements
 
@@ -56,6 +56,8 @@ A modern, Material 3-inspired GUI application for streaming anime using `ani-cli
      ```
    - Replace `C:\\Program Files\\Git\\bin\\bash.exe` with your Git Bash installation path.
    - Replace `/c/Users/Victus/scoop/apps/ani-cli/current/ani-cli` with your `ani-cli` path.
+4. **IMPORTANT**
+   - Replace ani-cli with the patched one(given here above), the program will not work without it
 
 ## Usage
 
